@@ -10,22 +10,21 @@ Este projeto, desenvolvido por alunos da Uninove campos ('Vila Prudente'), visa 
 
 ## 🌐 Links 
 
-- **🔗 [Acessar o Site](#)**  
+- **🔗 [Acessar o Site](https://yleonardo99.github.io/Pet-FriendsV2/)**  
 
 ## 🖼️ Imagens do Projeto 
 
-![image](https://github.com/user-attachments/assets/0277b25a-0f1c-4219-adb6-51f8d056a151)
+![Página Inicial1](https://github.com/user-attachments/assets/a843e376-3a2a-4e7f-aed8-03c4fddfc67f)
 
-![image](https://github.com/user-attachments/assets/a7f44bad-adea-455a-be7e-3e7b0e9bcb78)
+![Página inicial1.1](https://github.com/user-attachments/assets/a69dbb95-e23f-476a-bca4-0a7e0694363a)
 
-![image](https://github.com/user-attachments/assets/6d980109-bf09-4fb4-ac80-147700027b5f)
+![Sobrenós1](https://github.com/user-attachments/assets/c06cfcef-8d05-4c59-917a-4d4a5993742b)
 
-![image](https://github.com/user-attachments/assets/5be88c7b-f7ff-413c-9f4e-6afd5bd04087)
+![Sobrenós1.1](https://github.com/user-attachments/assets/d991f041-bb20-4540-a5da-7ddccd1f934f)
 
-![image](https://github.com/user-attachments/assets/b5ec7fd9-5290-443a-b75b-34f7d032e011)
+![PorqueAdotar1](https://github.com/user-attachments/assets/98f3c520-a12d-44cb-9e78-e490b4b95cdb)
 
-![image](https://github.com/user-attachments/assets/4528b2cc-8af7-48e8-9dd2-52b620fb395d)
-
+![PorqueAdotar1.1](https://github.com/user-attachments/assets/2ce2a5e7-bb29-43f5-b5c3-75b6b138c975)
 
 ## 🙏 Como Ajudar 
 
