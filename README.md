@@ -6,7 +6,7 @@ Instagran da Pet Friends 🔗 https://www.instagram.com/petfriends_animal/
 
 ## 📑 Descrição do Projeto 
 
-Este projeto, desenvolvido por alunos da Uninove campos ('Vila Prudente'), visa criar um site informativo e interativo para uma ONG dedicada à adoção de cães. Seu principal objetivo é conscientizar a população sobre a importância da adoção responsável, além de proporcionar um espaço onde as pessoas possam conhecer os animais disponíveis para adoção e descobrir como podem contribuir com a causa. O site apresenta informações detalhadas sobre a ONG, histórias inspiradoras de resgate e orientações sobre o processo de adoção de animais de estimação.
+Este projeto, criado para a ONG PetFriends, tem como propósito desenvolver um site informativo e interativo voltado à adoção de cães. O principal objetivo é sensibilizar a comunidade sobre a relevância da adoção responsável, além de oferecer um espaço para que as pessoas conheçam os animais disponíveis para adoção e descubram formas de apoiar a causa. O site inclui informações detalhadas sobre a ONG, relatos emocionantes de resgates e orientações completas sobre o processo de adoção de pets.
 
 ## 🌐 Links 
 
